@@ -1,2 +1,2 @@
-# Quispe_Angie_Rep
+# R_Python_Stata_codes
 Programming R, Python y STATA ;)
